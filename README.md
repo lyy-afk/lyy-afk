@@ -31,4 +31,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=lyy-afk&show_icons=true&theme=default" alt="GitHub stats" />
+![GitHub followers](https://img.shields.io/github/followers/lyy-afk?style=social)
